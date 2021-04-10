@@ -1,0 +1,7 @@
+Name = input("Enter your First Name")
+LastName = input("enter your Last Name")
+Country = input ("Country of Origin")
+Email = input ("email address")
+Phone = input ("phone number")
+City = input ("Name of your City")
+Address = input("enter your address")
